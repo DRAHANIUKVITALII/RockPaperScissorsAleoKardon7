@@ -1,0 +1,4 @@
+// The program input for rock_paper_scissors/src/main.leo
+[evaluate]
+player1: u8 = 2u8; // Scissors
+player2: u8 = 1u8; // Paper, player1 wins
